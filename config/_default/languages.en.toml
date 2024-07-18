@@ -9,3 +9,11 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 logo = "favicon.png"
+description = "Hello I'm Moein Arabi, computer engineering student at Shahid Beheshti University."
+
+[author]
+name = "Moein Arabi"
+image = "moein.JPG"
+headline = "This can be a markdown"
+bio = "The bio"
+links = [ { docker = "https://hub.docker.com/r/ilovebacteria" }, { email = "moein.mo81@gmail.com" } ]
