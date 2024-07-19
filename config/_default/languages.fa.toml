@@ -1,0 +1,20 @@
+languageCode = "fa"
+languageName = "Persian"
+weight = 2
+title = "Moein"
+
+[params]
+  displayName = "فارسی"
+  isoCode = "fa"
+  rtl = true
+  dateFormat = "2 January 2006"
+  description = "زبان فارسی"
+
+[author]
+  name = "محمدمعین عربی"
+  image = "img/moein.JPG"
+  headline = "دانشجوی رشته مهندسی کامپیوتر"
+  bio = "بیو من"
+  links = [
+    { github = "https://github.com/ilovebacteria" },
+  ]

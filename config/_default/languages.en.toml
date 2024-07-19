@@ -4,16 +4,17 @@ weight = 1
 title = "Moein"
 
 [params]
-displayName = "EN"
-isoCode = "en"
-rtl = false
-dateFormat = "2 January 2006"
-logo = "favicon.png"
-description = "Hello I'm Moein Arabi, computer engineering student at Shahid Beheshti University."
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "English description"
 
 [author]
-name = "Moein Arabi"
-image = "moein.JPG"
-headline = "This can be a markdown"
-bio = "The bio"
-links = [ { docker = "https://hub.docker.com/r/ilovebacteria" }, { email = "moein.mo81@gmail.com" } ]
+  name = "Mohammad-Moein Arabi"
+  image = "img/moein.JPG"
+  headline = "Computer engineering student"
+  bio = "This is bio"
+  links = [
+    { github = "https://github.com/ilovebacteria" },
+  ]
