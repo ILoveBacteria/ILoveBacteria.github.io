@@ -1,0 +1,9 @@
+{
+    "name": "Mohammad-Moein Arabi",
+    "image" : "img/moein.JPG",
+    "bio": "Computer engineering student",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/moeinarabi" },
+        { "github": "https://github.com/ilovebacteria" }
+    ]
+}
