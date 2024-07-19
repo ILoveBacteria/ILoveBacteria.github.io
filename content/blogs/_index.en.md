@@ -1,4 +1,11 @@
 ---
-title: "Welcome to Moein!"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Blog"
+description: "A cool blog page."
+
+cascade:
+  showDate: true
+  showAuthor: true
+  invertPagination: false
+---
+
 ---

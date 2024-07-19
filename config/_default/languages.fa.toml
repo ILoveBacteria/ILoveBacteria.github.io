@@ -1,7 +1,7 @@
 languageCode = "fa"
 languageName = "Persian"
 weight = 2
-title = "Moein"
+title = "معین"
 
 [params]
   displayName = "فارسی"
@@ -17,4 +17,6 @@ title = "Moein"
   bio = "بیو من"
   links = [
     { github = "https://github.com/ilovebacteria" },
+    { linkedin = "https://www.linkedin.com/in/moein-arabi/" },
+    { telegram = "https://t.me/moein_arabi" },
   ]

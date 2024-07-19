@@ -57,7 +57,7 @@
    pageRef = "tags"
    weight = 10
 
- [[footer]]
-   name = "نویسنده ها"
-   pageRef = "authors"
-   weight = 20
+[[footer]]
+   name = "دسته بندی"
+   pageRef = "categories"
+   weight = 30

@@ -17,4 +17,6 @@ title = "Moein"
   bio = "This is bio"
   links = [
     { github = "https://github.com/ilovebacteria" },
+    { linkedin = "https://www.linkedin.com/in/moein-arabi/" },
+    { telegram = "https://t.me/moein_arabi" },
   ]
