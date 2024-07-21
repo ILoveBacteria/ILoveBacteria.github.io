@@ -185,3 +185,19 @@ Main-Class: Main
 - [Jar files in Java - GeeksforGeeks](https://l.vrgl.ir/r?ad=1&l=https%3A%2F%2Fwww.geeksforgeeks.org%2Fjar-files-java%2F&si=dawcnbxn3zqy&st=post&u=jydctt1aaupa&k=nSUeolF%2BPh3%2BSMBYf8yiWt92qVhKIH%2Fe8smJT3OnP4k%3D)
 - [Compile and build applications with IntelliJ IDEA | IntelliJ IDEA](https://l.vrgl.ir/r?ad=1&l=https%3A%2F%2Fwww.jetbrains.com%2Fhelp%2Fidea%2Fcompiling-applications.html%23package_into_jar&si=dawcnbxn3zqy&st=post&u=jydctt1aaupa&k=ZM3j83yE%2BxkZI%2FTeWl7DsxIk6JrE5v30ukuxTOz5PpE%3D)
 - [JAR (file format) - Wikipedia](https://l.vrgl.ir/r?ad=1&l=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJAR_%28file_format%29&si=dawcnbxn3zqy&st=post&u=jydctt1aaupa&k=8feSlLXxMomzn5C13zX8DH%2FpN25TZ3dPhrHW%2FuF%2BM04%3D)
+
+<script src="https://giscus.app/client.js"
+        data-repo="ILoveBacteria/ILoveBacteria.github.io"
+        data-repo-id="R_kgDOMYiXCg"
+        data-category="General"
+        data-category-id="DIC_kwDOMYiXCs4ChC_Y"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

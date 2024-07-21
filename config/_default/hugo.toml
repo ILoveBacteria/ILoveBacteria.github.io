@@ -10,7 +10,7 @@ disableLanguages = [] #to allow translation work requiring shipping to productio
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 30
-hasCJKLanguage = true
+hasCJKLanguage = false
 timeout = '120s'
 
 buildDrafts = false
