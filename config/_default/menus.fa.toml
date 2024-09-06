@@ -33,12 +33,12 @@
 
 [[main]]
   name = "پروژه"
-  url = "/projects"
+  url = "/en/projects"
   weight = 20
 
 [[main]]
   name = "درباره من"
-  url = "/about"
+  url = "/en/about"
   weight = 30
 
 [[main]]

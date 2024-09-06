@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://moeinarabi.ir"
-defaultContentLanguage = "en"
+defaultContentLanguage = "fa"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
 enableRobotsTXT = true
