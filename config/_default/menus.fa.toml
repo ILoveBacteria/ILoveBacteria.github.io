@@ -38,7 +38,7 @@
 
 [[main]]
   name = "درباره من"
-  pageRef = "about"
+  url = "/about"
   weight = 30
 
 [[main]]

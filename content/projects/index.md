@@ -1,7 +1,12 @@
 ---
 title: "Projects"
 date: 2024-09-06
-
+showAuthor: false
+showDate: false
+showDateUpdated: false
+showViews: false
+showLikes: false
+showReadingTime : false
 ---
 
 ## Complicated Projects
