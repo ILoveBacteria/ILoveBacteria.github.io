@@ -33,7 +33,7 @@
 
 [[main]]
   name = "پروژه"
-  pageRef = "projects"
+  url = "/projects"
   weight = 20
 
 [[main]]
