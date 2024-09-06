@@ -7,7 +7,6 @@ tags:
 categories:
     - educational
 slug: markdown
-image: cover.webp
 ---
 
 ## مقدمه
@@ -33,7 +32,7 @@ image: cover.webp
 
 ## سینتکس نوشتاری Markdown
 
-![محیط یک ادیتور کد برای نوشتن متن مارک داون](syntax.webp)
+![محیط یک ادیتور کد برای نوشتن متن مارک داون](syntax.fa.webp)
 
 چندتا از سینتکس‌های ساده رو بررسی می‌کنیم:
 
