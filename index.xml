@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>به معین خوش آمدید! on معین</title><link>https://moeinarabi.ir/</link><description>Recent content in به معین خوش آمدید! on معین</description><generator>Hugo -- gohugo.io</generator><language>fa</language><copyright>© 2024 محمدمعین عربی</copyright><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://moeinarabi.ir/index.xml" rel="self" type="application/rss+xml"/><item><title>Prim vs Kruskal</title><link>https://moeinarabi.ir/blogs/prim_vs_kruskal/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/prim_vs_kruskal/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>اخیرا سوال &lt;a href="https://leetcode.com/problems/min-cost-to-connect-all-points/description/" target="_blank">1584. Min Cost to Connect All Points&lt;/a> از Leetcode رو داشتم حل می‌کردم که هدف اصلی سوال پیاده‌سازی یه الگوریتم &lt;code>MST&lt;/code> بود. مونده بودم پریم بزنم یا کراسکال. یکم که فکر کردم، احساس کردم پیاده‌سازی کراسکال آسون‌تره و اون رو انتخاب کردم 😁&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/prim_vs_kruskal/cover.fa.png"/></item><item><title>رفتارهای عجیب تابع append در golang</title><link>https://moeinarabi.ir/blogs/append-function-in-golang/</link><pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/append-function-in-golang/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>همیشه یاد گرفتن یه زبون جدید چالش‌های خاصی داره. یادم میاد زمانی که شروع کرده بودم شی گرایی پایتون رو یاد می‌گرفتم و با جاوا مقایسش می‌کردم، همه چیزش خیلی عجیب بود. الان هم که دارم go رو یاد می‌گیرم یه چیزاییش عجیبه ولی می‌دونم زمان بگذره همه این‌ها عادی و بدیهی میشه.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/append-function-in-golang/cover.fa.png"/></item><item><title>تاثیر Allocate و Deallocate کردن‌های بیهوده بر زمان اجرایی</title><link>https://moeinarabi.ir/blogs/allocate-deallocate-optimization/</link><pubDate>Sun, 30 Jun 2024 15:30:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/allocate-deallocate-optimization/</guid><description>&lt;h2 class="relative group">چی شده بود؟
+&lt;div id="%DA%86%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D9%88%D8%AF" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%DA%86%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A8%D9%88%D8%AF" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>داشتم یکی از مسائل &lt;a href="https://leetcode.com/problems/valid-sudoku/submissions/1304929030/" target="_blank">Leetcode&lt;/a> رو با گو حل می‌کردم که بعد از ارسال کردن کد و Accept شدنش، تصمیم گرفتم یکم کدم رو بهینه‌تر کنم.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/allocate-deallocate-optimization/cover.png"/></item><item><title>سلام دنیا</title><link>https://moeinarabi.ir/blogs/hello-world/</link><pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/hello-world/</guid><description>&lt;p>سلام دنیا&lt;/p>
+&lt;script src="https://giscus.app/client.js"
+data-repo="ILoveBacteria/ILoveBacteria.github.io"
+data-repo-id="R_kgDOMYiXCg"
+data-category="General"
+data-category-id="DIC_kwDOMYiXCs4ChC_Y"
+data-mapping="pathname"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="top"
+data-theme="dark_dimmed"
+data-lang="en"
+crossorigin="anonymous"
+async>
+&lt;/script></description></item><item><title>چگونه یک متن Markdown بنویسیم؟</title><link>https://moeinarabi.ir/blogs/markdown/</link><pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/markdown/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>احتمالا توی گشت و گذارتون در وب، این لوگوی خوشگل فایل Markdown رو دیدید! یا با فایل‌هایی رو به رو شدید که پسوند &lt;code>md.&lt;/code> داشتن. اینجا می‌خوام یکم درباره‌ی کاربرد Markdown و سینتکس نوشتنش حرف بزنم.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/markdown/cover.fa.webp"/></item><item><title>چرا git pull خوب نیست؟!</title><link>https://moeinarabi.ir/blogs/why-git-pull-is-not-good/</link><pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/why-git-pull-is-not-good/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>چند روز پیش به یه &lt;a href="https://www.youtube.com/watch?v=xN1-2p06Urc" target="_blank">ویدیو&lt;/a> با عنوان با حال &amp;ldquo;از &lt;code>git pull&lt;/code> هیچ وقت استفاده نکن&amp;rdquo; بر خوردم. با خودم گفتم مگه چه مشکلی می‌تونه داشته باشه؟&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/why-git-pull-is-not-good/cover.fa.jpg"/></item><item><title>ساختن و اجرا کردن فایل jar در زبان جاوا</title><link>https://moeinarabi.ir/blogs/jar-file/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/jar-file/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>فرض کنید به عنوان یک توسعه‌دهنده می‌خواهید پروژه خودتون رو برای استفاده کاربر منتشر کنید. آیا پروژتون رو با ده‌ها یا صدها کلاس نوشته شده در فولدرهای مختلف در اختیار کاربر قرار می‌دید؟ نه! اینجاست که باید با &lt;code>jar&lt;/code> آشنا بشید.
+فایل &lt;code>jar&lt;/code> یک فایل فشرده‌شده است که کلاس‌های جاوا، عکس، متن و&amp;hellip; به همراه فایل &lt;em>Manifest&lt;/em>(در ادامه بهش می‌رسیم) را در خود جای می‌دهد و از فرمت‌های فشرده‌سازی مانند &lt;code>zip&lt;/code> استفاده می‌کند.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/jar-file/cover.fa.webp"/></item></channel></rss>

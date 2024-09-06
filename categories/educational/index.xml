@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Educational on معین</title><link>https://moeinarabi.ir/categories/educational/</link><description>Recent content in Educational on معین</description><generator>Hugo -- gohugo.io</generator><language>fa</language><copyright>© 2024 محمدمعین عربی</copyright><lastBuildDate>Mon, 02 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://moeinarabi.ir/categories/educational/index.xml" rel="self" type="application/rss+xml"/><item><title>Prim vs Kruskal</title><link>https://moeinarabi.ir/blogs/prim_vs_kruskal/</link><pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/prim_vs_kruskal/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>اخیرا سوال &lt;a href="https://leetcode.com/problems/min-cost-to-connect-all-points/description/" target="_blank">1584. Min Cost to Connect All Points&lt;/a> از Leetcode رو داشتم حل می‌کردم که هدف اصلی سوال پیاده‌سازی یه الگوریتم &lt;code>MST&lt;/code> بود. مونده بودم پریم بزنم یا کراسکال. یکم که فکر کردم، احساس کردم پیاده‌سازی کراسکال آسون‌تره و اون رو انتخاب کردم 😁&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/prim_vs_kruskal/cover.fa.png"/></item><item><title>چگونه یک متن Markdown بنویسیم؟</title><link>https://moeinarabi.ir/blogs/markdown/</link><pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/markdown/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>احتمالا توی گشت و گذارتون در وب، این لوگوی خوشگل فایل Markdown رو دیدید! یا با فایل‌هایی رو به رو شدید که پسوند &lt;code>md.&lt;/code> داشتن. اینجا می‌خوام یکم درباره‌ی کاربرد Markdown و سینتکس نوشتنش حرف بزنم.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/markdown/cover.fa.webp"/></item><item><title>ساختن و اجرا کردن فایل jar در زبان جاوا</title><link>https://moeinarabi.ir/blogs/jar-file/</link><pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate><guid>https://moeinarabi.ir/blogs/jar-file/</guid><description>&lt;h2 class="relative group">مقدمه
+&lt;div id="%D9%85%D9%82%D8%AF%D9%85%D9%87" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%D9%85%D9%82%D8%AF%D9%85%D9%87" aria-label="لنگر">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>فرض کنید به عنوان یک توسعه‌دهنده می‌خواهید پروژه خودتون رو برای استفاده کاربر منتشر کنید. آیا پروژتون رو با ده‌ها یا صدها کلاس نوشته شده در فولدرهای مختلف در اختیار کاربر قرار می‌دید؟ نه! اینجاست که باید با &lt;code>jar&lt;/code> آشنا بشید.
+فایل &lt;code>jar&lt;/code> یک فایل فشرده‌شده است که کلاس‌های جاوا، عکس، متن و&amp;hellip; به همراه فایل &lt;em>Manifest&lt;/em>(در ادامه بهش می‌رسیم) را در خود جای می‌دهد و از فرمت‌های فشرده‌سازی مانند &lt;code>zip&lt;/code> استفاده می‌کند.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://moeinarabi.ir/blogs/jar-file/cover.fa.webp"/></item></channel></rss>
