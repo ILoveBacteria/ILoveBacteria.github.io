@@ -1,4 +1,4 @@
 ---
-title: "Welcome to Moein!"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Welcome to Moein's Home!"
+description: "Moein's personal page, a place to share thoughts, projects, and interests."
 ---

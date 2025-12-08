@@ -1,6 +1,6 @@
 ---
-title: "به معین خوش آمدید!"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "به خونه‌ی معین خوش آمدید!"
+description: "صفحه‌ی شخصی معین، جایی برای به اشتراک‌گذاری افکار، پروژه‌ها و علاقه‌مندی‌ها."
 ---
 
 

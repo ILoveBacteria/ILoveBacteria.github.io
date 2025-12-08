@@ -13,7 +13,10 @@ enableSearch = true
 enableCodeCopy = true
 
 mainSections = ["blogs"]
-# robots = ""
+robots = "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1"
+
+# Default images used for Open Graph / Twitter / Schema markup
+images = ["img/moein.JPG"]
 
 disableImageOptimization = false
 disableTextInHeader = false
